@@ -24,5 +24,5 @@ This framework serves as a practical demonstration of the following concepts:
 ### 2. Installation
 Clone this repository or download the files:
 ```bash
-git clone https://github.com/YOUR_USERNAME/MiniAITrainer.git
+git clone https://github.com/44-max/MiniAITrainer.git
 cd MiniAITrainer
